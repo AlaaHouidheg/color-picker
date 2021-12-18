@@ -76,6 +76,7 @@ const GradientList = () => {
   return (
     <div className="list-body">
       <Filter />
+      <h1>hello guit</h1>
       <div className="list">
         {gradients.map((el) => (
           <div
